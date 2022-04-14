@@ -1,0 +1,126 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "adminOnly": false,
+    "spadmOnly": false,
+    "duyetbox": false,
+    "ibrieng": false,
+    "dangky": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "BOT TEST",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100076427627635",
+        ""
+    ],
+    "NDH": [
+        "",
+        "100056059703392"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15"
+    },
+    "version": "1.2.14",
+    "baolixi": {
+        "cooldownTime": 1200000
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyC0eTsffId9JOlve8OHQuvZEL5vrI1zX5Y",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyA7iJDD8jd7ItteGJddOBmolFrA-ZlYmtY",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 6120
+    },
+    "daily": {
+        "rewardDay1": {
+            "coin": 100
+        }
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "sim": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "hentai": {
+        "meewmeew_apikey": "",
+        "limitPerMessage": 10
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "join": {
+        "autoUnsend": true,
+        "timeToUnsend": 10
+    },
+    "tik": {
+        "API_KEY": "mzk_U8ZLGO17EPVTXKBP9RQ"
+    },
+    "fbcover": {
+        "APIKEY": "LUVMIN"
+    },
+    "info2": {
+        "ACCESS_TOKEN": "EAAGNO4a7r2wBAOEed1tZAqE3U0LVJF492xs4WOZCgiecNFzQvXlwAKjgGIdUO0wkJy7XVzvDZCxM4SnhOmP7gJPmFZCXdCMcjrP0AbULUiipA3UTDK2wmwFZB9ueMpxNuw8X7ITbVhb65Drv2yM4Yn1ZCxBCyk3cJW2s5Ghm3ZCReap48XW6BPRCvmGCXytbbAZD"
+    },
+    "petpoke": {
+        "APIKEY": "MinCute"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "poke": {
+        "APIKEY": "Mirai_nhattan_Vip"
+    }
+}
